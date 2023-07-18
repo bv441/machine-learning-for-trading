@@ -1,0 +1,13 @@
+matplotlib
+pandas
+numpy
+pandas_datareader
+mplfinance
+seaborn
+zipline-reloaded
+#conda install -c conda-forge ta-lib
+alphalens-reloaded
+scikit-learn
+logbook
+pyfolio-reloaded
+yellowbrick
